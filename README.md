@@ -1,1 +1,1 @@
-In this branch I am trying to solve an error related to mongoDB.
+Here, I used JavaScript, EJS templates, nodejs and mongoDB to create this myBlogApp. simply clone it in your local system and root folder is default directory then just write node app.js to run app.js and start the server.
